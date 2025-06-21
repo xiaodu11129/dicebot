@@ -4,6 +4,4 @@ sqlalchemy
 flask
 flask-admin
 flask-login
-matplotlib
-werkzeug
-
+# matplotlib
