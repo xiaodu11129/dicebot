@@ -1,0 +1,9 @@
+python-telegram-bot>=20.0
+apscheduler
+sqlalchemy
+flask
+flask-admin
+flask-login
+matplotlib
+werkzeug
+
