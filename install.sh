@@ -11,8 +11,7 @@ pkg install python git clang -y
 pkg install libjpeg-turbo freetype libpng -y
 
 echo "3. 克隆/更新项目源码..."
-REPO_URL="https://github.com/xiaodu11129/dicebot.git
-"
+REPO_URL="https://github.com/xiaodu11129/dicebot.git"
 DIR_NAME="dicebot"
 
 if [ -d "$DIR_NAME" ]; then
